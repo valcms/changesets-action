@@ -1,5 +1,11 @@
 # @changesets/action
 
+## 2.0.0
+
+### Major Changes
+
+- [`266662d`](https://github.com/changesets/action/commit/266662d35b8992b720fd46d3d14ca4444b9f589a) Thanks [@JamiesWhiteShirt](https://github.com/JamiesWhiteShirt)! - Remove npm specific publication logic
+
 ## 1.4.1
 
 ### Patch Changes
